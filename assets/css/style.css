@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#location-select-container {
+    display: flex;
+    justify-content: center;
+}
+
+#map {
+    height: 80vh;
+    background-color: darkgrey;
+    border: 1px solid white;
+}
